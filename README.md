@@ -6,18 +6,16 @@ This software prints an important message.
 
 To display an important message for all developers.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=3-AGs8APQDg)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To devlop this software I used VS code, JS node.js specifically.
 
-{Describe the programming language that you used}
+I used JS and the node runtime.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+Websites I used
+* [Github](http://github.io)
+* [Youtube](http://youtube.com)
